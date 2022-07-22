@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StudZero</string>
+    <string name="Accueil_Txt_remaining_balance_days"><b>Remaining Balance : \n$val\nRemaining Days : $val</b></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="NewBudget_EnterIncome">Enter total income</string>
+    <string name="NewBudget_EnterIncome_helper"></string>
+    <string name="NewBudgetConfirmButton">Confirm</string>
+    <string name="NewBudgetAddNewCategoryButton">Add New Category</string>
+    <string name="NewBudgetReviewAllButton">Review All</string>
+    <string name="NewBudgetTextViewAllocated">Currently allocated :</string>
+    <string name="NewBudgetTextViewAvailable">Budget :</string>
+    <string name="NewBudget_EnterExpensesHint">Enter estimated expenses</string>
+    <string name="NewBudgetCreateButton">Create</string>
+    <string name="NewBudget_EnterCategoryName">Enter Category Name</string>
+    <string name="NewBudget4_NbCatTextViewTXT">Total number of category : </string>
+    <string name="currency">€</string>
+    <string name="NewBudget2_helper">Select the categories you want to keep</string>
+    <string name="NewBudget2_ConfirmButtonTxt">CONFIRM</string>
+    <string name="NewPayment">New payment</string>
+    <string name="title_activity_add_payment">AddPayment</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="SelectCategory">Select a category</string>
+    <string name="AddPaymentEnterPayment">Enter payment value</string>
+    <string name="AddPaymentEnterPaymentHelper">Payment</string>
+    <string name="AddPaymentEnterPaymentHint">Enter payment</string>
+    <string name="AddPaymentConfirmButton">Confirm</string>
+    <string name="RemainingBalance">Remaining balance :</string>
+    <string name="RemainingDays">Remaining day(s) :</string>
+    <string name="EvolutionPayments">Evolution of payments</string>
+    <string name="RealAmountGraphicalLegend">Real amount payed</string>
+    <string name="TheoreticalAmountGraphicalLegend">Theoretical amount payed</string>
+    <string name="GraphYAxisTitle">Payments</string>
+    <string name="GraphXAxisTitle">Days</string>
+    <string name="EstimatedTotal">Estimated total</string>
+    <string name="RealTotal">Real total</string>
+</resources>

@@ -1,0 +1,11 @@
+StudZero_V_1.0.0
+	Official 1st version of the app
+
+26/04/2022
+	1st version of the model 
+
+
+StudZero_V_0.0.0
+   	Project initialization
+
+	
